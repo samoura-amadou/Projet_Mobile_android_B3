@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#006A6667"
+    android:orientation="vertical"
+    tools:context=".FromagesActivity">
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/contentLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="119dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewcoca1"
+            android:layout_width="150dp"
+            android:layout_height="66dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/fro1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewName5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Coca-cola sans cafeine"
+                android:textColor="#F80707" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <Button
+                android:id="@+id/fro1"
+                android:layout_width="161dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Description" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewcoca4"
+            android:layout_width="150dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/fro2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewName4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Pepsi light décaféiné - 33 cl"
+                android:textColor="#F80707" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <Button
+                android:id="@+id/fro2"
+                android:layout_width="176dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Description" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/contentLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewcoca3"
+            android:layout_width="150dp"
+            android:layout_height="59dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/fro3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewName3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Coca-Cola - 4 * 250 ml"
+                android:textColor="#F80707" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <Button
+                android:id="@+id/fro3"
+                android:layout_width="177dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Description" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewcoca"
+            android:layout_width="150dp"
+            android:layout_height="64dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/fro4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Eau fruitée saveur citron vert - U - 1,5 l"
+                android:textColor="#F80707" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <Button
+                android:id="@+id/fro4"
+                android:layout_width="177dp"
+                android:layout_height="38dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Description" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="118dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewcoca2"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/fro5" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewName2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Eau de source finement Pétillante - Carola - 1.25l"
+                android:textColor="#F80707" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <Button
+                android:id="@+id/fro5"
+                android:layout_width="183dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Description" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

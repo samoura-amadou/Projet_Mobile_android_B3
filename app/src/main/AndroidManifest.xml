@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.xamen_b3_samoura_amadou">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Examen_B3_samoura_amadou">
+        <activity
+            android:name=".sur5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sur4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sur3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sur2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sur1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sau5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sau4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sau3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sau2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".sau1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".fro5Activity"
+            android:exported="true"
+            android:label="@string/title_activity_fro5"
+            android:theme="@style/Theme.Examen_B3_samoura_amadou.NoActionBar" />
+        <activity
+            android:name=".fro4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".fro3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".fro2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".fro1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".boisson5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".boisson4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".boisson3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".boisson2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".boison1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Detailsauce1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".SaucesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SurgelesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FromagesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ProductsListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Etudiant1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Etudiant2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CategoriesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GroupInfosActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".BaseActivity"
+            android:exported="true"
+            android:label="@string/title_activity_base"
+            android:theme="@style/Theme.Examen_B3_samoura_amadou.NoActionBar" />
+        <activity
+            android:name=".AppEpsi"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

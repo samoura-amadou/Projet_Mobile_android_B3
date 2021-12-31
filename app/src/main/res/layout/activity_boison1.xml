@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1BF6A"
+    android:orientation="vertical"
+    tools:context=".boison1Activity">
+
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="195dp"
+        app:srcCompat="@drawable/coca1" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="423dp"
+        android:text="&quot;description&quot;: &quot;Eau gazéifiée sucre colorant : E150d acidifiant : acide phosphorique aromes naturels (extraits végétaux) Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.&quot;" />
+
+
+</LinearLayout>

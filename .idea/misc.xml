@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_app_epsi.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_boison1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_boisson2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_boisson3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_boisson4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_boisson5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_categories.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_detailsauce1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_etudiant1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_etudiant2.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_fro1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fro2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fro3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fro4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fro5.xml" value="0.13356562137049943" />
+        <entry key="app/src/main/res/layout/activity_fromages.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_group_infos.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10552536231884058" />
+        <entry key="app/src/main/res/layout/activity_products_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sau1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sau2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sau3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sau4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sau5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sauces.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1125" />
+        <entry key="app/src/main/res/layout/activity_sur1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sur2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sur3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sur4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sur5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_surgeles.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_base.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.12590579710144928" />
+        <entry key="app/src/main/res/layout/fragment_first2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_second2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_header.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

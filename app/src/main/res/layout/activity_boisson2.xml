@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1BF6A"
+    android:orientation="vertical"
+    tools:context=".boisson2Activity">
+
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="264dp"
+        app:srcCompat="@drawable/coca2" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="392dp"
+        android:text="&quot;description&quot;: &quot;Eau gazéifiée, colorant (caramel E150d), acidifiants (acide phosphorique, acide citrique), édulcorants (aspartame, acésulfame K), arômes (dont extraits naturels de végétaux), conservateur (benzoate de sodium). Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.&quot;" />
+
+
+</LinearLayout>

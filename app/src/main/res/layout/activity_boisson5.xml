@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1BF6A"
+    android:orientation="vertical"
+    tools:context=".boisson5Activity">
+
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="274dp"
+        app:srcCompat="@drawable/coca5" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="366dp"
+        android:text="&quot;description&quot;: &quot;Eau de source, gaz carbonique.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Boisson rafraîchissante aux extraits végétaux Eau gazéifiée; sucre; colorant : E150d ; acidifiant: acide phosphorique ; arômes naturels (extraits végétaux), dont caféine. Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.&quot;" />
+
+
+</LinearLayout>

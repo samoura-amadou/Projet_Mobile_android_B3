@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:id="@+id/textViewInfosEtudiant1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Infos Etudiant" />
+
+    <TextView
+        android:id="@+id/textViewInfosEtudiant2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SAMOURA  Amadou" />
+
+    <TextView
+        android:id="@+id/textViewadresseEtudiant1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="samoura.amadou@epsi.fr" />
+    <TextView
+        android:id="@+id/textViewGroupEtudiant1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Groupe: 2" />
+    <TextView
+        android:id="@+id/text_Open_Epsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_OpenEpsi"/>
+</LinearLayout>

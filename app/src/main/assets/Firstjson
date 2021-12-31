@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "category_id": "1",
+      "title": "Boissons",
+      "products_url": "https://djemam.com/epsi/drink.json"
+    },
+    {
+      "category_id": "2",
+      "title": "Fromages",
+      "products_url": "https://djemam.com/epsi/fromage.json"
+    },
+    {
+      "category_id": "3",
+      "title": "Surgelés",
+      "products_url": "https://djemam.com/epsi/frozen.json"
+    },
+    {
+      "category_id": "4",
+      "title": "Sauces",
+      "products_url": "https://djemam.com/epsi/sauce.json"
+    }
+  ]
+}

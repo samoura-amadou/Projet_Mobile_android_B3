@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1BF6A"
+    android:orientation="vertical"
+    tools:context=".sau4Activity">
+    <include
+        layout="@layout/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="226dp"
+        app:srcCompat="@drawable/sau4" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="&quot;description&quot;: &quot;Avertissement : Le taux de fibres n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n \n Avertissement : Le taux de fruits, légumes et noix n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Liste des ingrédients :Lait de vache pasteurisé (origine : France), crème de lait de chèvre (origine : France) 10%, ferments lactiques et d'affinage (dont lait), sel. Substances ou produits provoquant des allergies ou intolérances : Lait. Avertissement : Le taux de fibres n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Liste des ingrédients :Lait de vache pasteurisé (origine : France), crème de lait de chèvre (origine : France) 10%, ferments lactiques et d'affinage (dont lait), sel. Substances ou produits provoquant des allergies ou intolérances : Lait. Avertissement : Le taux de fibres n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Liste des ingrédients :Lait de vache pasteurisé (origine : France), crème de lait de chèvre (origine : France) 10%, ferments lactiques et d'affinage (dont lait), sel. Substances ou produits provoquant des allergies ou intolérances : Lait. Avertissement : Le taux de fibres n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.\n Liste des ingrédients :Lait de vache pasteurisé (origine : France), crème de lait de chèvre (origine : France) 10%, ferments lactiques et d'affinage (dont lait), sel. Substances ou produits provoquant des allergies ou intolérances : Lait. Avertissement : Le taux de fibres n'étant pas renseigné, leur éventuelle contribution positive à la note n'a pas pu être prise en compte.&quot;," />
+
+</LinearLayout>
